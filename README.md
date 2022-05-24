@@ -22,7 +22,8 @@ Features:
   </p>
   <p>
   <h3><a href="https://twotimesgi.github.io/react-socialfeed/">Front-end: Social Feed made with React.js</a></h3>
-  Features: One of the firsts react projects, made with React.js and react-bootstrap.
+  <p>Description: One of the firsts react projects, made with React.js and react-bootstrap.</p>
+  Features:
   <ul>
     <li>New post creation</li>
     <li>Delete posts (only if yours)</li>
