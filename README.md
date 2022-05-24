@@ -1,3 +1,4 @@
+<h2>Some of the project I'd like you to see...</h2>
 <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: WhatsApp</a></h3>
 <p>Description: A simple replica of WhatsApp Web made with Vue.js, CSS and HTML.</p>
 <p>
@@ -45,6 +46,7 @@ Features:
   </p>
 </div>
 
+<h2>Other infos:</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luigibardellagerbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigibardellagerbi" height="30" width="40" /></a>
