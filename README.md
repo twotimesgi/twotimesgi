@@ -1,4 +1,4 @@
-<h2>Some of the project I'd like you to see...</h2>
+<h2>Some projects I'd like you to see...</h2>
 <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: WhatsApp</a></h3>
 <p>Description: A simple replica of WhatsApp Web made with Vue.js, CSS and HTML.</p>
 <p>
