@@ -35,7 +35,6 @@ Features:
    <p>
   <h3><a href="https://twotimesgi.github.io/react-socialfeed/">Front-end: One-Instructor Wordpress Theme</a></h3>
   <p>Description: Replica of a WordPress theme (screenshot of the original theme below). Made with HTML, CSS and Vue.js</p>
-  <img style="width: 300px" src="https://github.com/twotimesgi/twotimesgi/blob/main/screenshot.png?raw=true">
   Features:
   <ul>
     <li>Dynamic Navbar Links</li>
@@ -43,10 +42,11 @@ Features:
     <li>Load more button</li>
     <li>Dynamic Testimonials Slider</li>
   </ul>
+    <img style="width: 300px; height:300px; object-fit: cover;" src="https://github.com/twotimesgi/twotimesgi/blob/main/screenshot.png?raw=true">
   </p>
 </div>
 
-<h2>Other infos:</h2>
+<h2>More:</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luigibardellagerbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigibardellagerbi" height="30" width="40" /></a>
