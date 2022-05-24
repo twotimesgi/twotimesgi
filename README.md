@@ -1,5 +1,6 @@
+<h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: WhatsApp</a></h3>
+<p>Description: A simple replica of WhatsApp Web made with Vue.js, CSS and HTML.</p>
 <p>
-    <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: WhatsApp replica made with Vue.js</a></h3>
 Features:
   <ul>
     <li>Light/Dark mode</li>
@@ -9,9 +10,10 @@ Features:
     <li>Search Conversations</li>
   </ul>
   </p>
-  <p>
-  <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: Spotify responsive replica (plain HTML and CSS)</a></h3>
-  Features:
+  <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: Spotify</a></h3>
+  <p>Description: A responsive replica of Spotify Web. Made in plain HTML and CSS.</p>
+   <p>
+   Features:
   <ul>
     <li>Mobile first approach</li>
     <li>Made with flexbox</li>
@@ -19,8 +21,8 @@ Features:
   </ul>
   </p>
   <p>
-  <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: Social Feed made with React.js</a></h3>
-  Features:
+  <h3><a href="https://twotimesgi.github.io/react-socialfeed/">Front-end: Social Feed made with React.js</a></h3>
+  Features: One of the firsts react projects, made with React.js and react-bootstrap.
   <ul>
     <li>Mobile first approach</li>
     <li>Made with flexbox</li>
