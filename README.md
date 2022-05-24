@@ -31,7 +31,7 @@ Features:
   </ul>
   </p>
    <p>
-  <h3><a href="https://twotimesgi.github.io/react-socialfeed/">Front-end: One-instructor Wordpress Theme</a></h3>
+  <h3><a href="https://twotimesgi.github.io/react-socialfeed/">Front-end: One-Instructor Wordpress Theme</a></h3>
   <p>Description: Replica of a WordPress theme (screen of the original theme below). Made with HTML, CSS and Vue.js</p>
   <img style="width: 300px" src="https://github.com/twotimesgi/twotimesgi/blob/main/screenshot.png?raw=true">
   Features:
