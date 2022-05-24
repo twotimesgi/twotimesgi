@@ -42,7 +42,7 @@ Features:
     <li>Load more button</li>
     <li>Dynamic Testimonials Slider</li>
   </ul>
-    <img style="width: 300px; height:300px; object-fit: cover;" src="https://github.com/twotimesgi/twotimesgi/blob/main/screenshot.png?raw=true">
+    <img style="width: 300px;" src="https://github.com/twotimesgi/twotimesgi/blob/main/screenshot.png?raw=true">
   </p>
 </div>
 
