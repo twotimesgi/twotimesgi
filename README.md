@@ -10,7 +10,8 @@ Features:
     <li>Search Conversations</li>
   </ul>
   </p>
-  <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: Spotify</a></h3>
+  <h3><a href="https://twotimesgi.github.io/html-css-spotifyweb/index.html">
+  Front-end: Spotify</a></h3>
   <p>Description: A responsive replica of Spotify Web. Made in plain HTML and CSS.</p>
    <p>
    Features:
