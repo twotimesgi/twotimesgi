@@ -18,6 +18,15 @@ Features:
     <li>Hover effects</li>
   </ul>
   </p>
+  <p>
+  <h3><a href="https://twotimesgi.github.io/vue-boolzapp/index.html">Front-end: Social Feed made with React.js</a></h3>
+  Features:
+  <ul>
+    <li>Mobile first approach</li>
+    <li>Made with flexbox</li>
+    <li>Hover effects</li>
+  </ul>
+  </p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
